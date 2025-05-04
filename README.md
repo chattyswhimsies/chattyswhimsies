@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on creating AI Agents
 - 📫 Email me with something interesting at chatty@email.com
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: a little bit spicy but yhe right kind of feisty.
+- ⚡ Fun fact: a little bit spicy but the right kind of feisty.
 
 <!---
 chattyswhimsies/chattyswhimsies is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
